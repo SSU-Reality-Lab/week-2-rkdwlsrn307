@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CwAYw1mA)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=20659797&assignment_repo_type=AssignmentRepo)
 # 📘 프로젝트 : 확률과 시뮬레이션
 
 이 프로젝트는 정규분포, 확률 계산, 몬테카를로 시뮬레이션, 다변량 정규분포를 다루는 과제입니다. `Week_2_Machine_learning_2025.ipynb` 노트북을 기반으로 하며, 각 Assignment는 통계적 개념을 코드로 실습하도록 구성되어 있습니다.
